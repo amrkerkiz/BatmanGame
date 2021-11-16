@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Joker
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Thug\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ checkpoint
+comment1.target=Joker(Batman,\ int)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=
+comment3.target=boolean\ isAttacking()
+comment4.params=
+comment4.target=java.lang.String\ thugPos()
+comment5.params=change
+comment5.target=void\ changeHealth(int)
+comment6.params=
+comment6.target=int\ getHealth()
+comment7.params=x
+comment7.target=void\ setMovability(boolean)
+comment8.params=
+comment8.target=int\ getCp()
+numComments=9
